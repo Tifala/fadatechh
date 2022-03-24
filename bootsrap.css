@@ -1,0 +1,9 @@
+.picture {
+  background: url(image3.jpg) center/cover no-repeat fixed rgba(0, 0, 0, 0.356);
+  opacity: .95;
+  }
+ 
+      
+ .mmm {
+    border-bottom: 2px solid rgb(7, 224, 36)
+ }
